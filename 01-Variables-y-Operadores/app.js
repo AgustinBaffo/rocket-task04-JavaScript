@@ -9,16 +9,16 @@ c) Crear dos variables de tipo String y sumar el largo de cada variable (cantida
 var a = 3;
 var b = 5;
 var c = a + b;
-console.log(c);
+console.log('a) ' + c);
 
 // b)
 var firstname = 'Agustin';
 var lastname = 'Baffo';
 var name = firstname + lastname;
-console.log(name);
+console.log('b) ' + name);
 
 // c)
 var myFirstVariable = "This is my first variable";
 var myOtherVariable = "This is noy my variable";
 var count = myFirstVariable.length + myOtherVariable.length;
-console.log(count);
+console.log('c) ' + count);
