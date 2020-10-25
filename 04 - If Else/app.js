@@ -23,7 +23,7 @@ if(myNumber >= .5){
 
 // b)
 var Age = Math.round(Math.random() * 100);
-console.log(Age);
+console.log('b) ' + Age);
 if(Age<2){
     alert('Bebe');
 }else if(Age<13){
